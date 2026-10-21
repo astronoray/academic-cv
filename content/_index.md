@@ -56,7 +56,7 @@ sections:
           - publications
         featured_only: true
     design:
-      view: card
+      view: 
       columns: 1
   - block: collection
     content:
