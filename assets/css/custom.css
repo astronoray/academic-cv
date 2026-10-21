@@ -1,0 +1,10 @@
+/* Captions for figures */
+figure figcaption {
+    font-size: 0.85rem;
+    line-height: 1.4;
+    margin-top: 0.4rem;
+}
+
+figure figcaption p {
+    margin: 0;
+}

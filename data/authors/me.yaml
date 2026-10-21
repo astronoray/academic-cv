@@ -1,116 +1,151 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+highlight_name: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Ray Garner
+  given: Ray
+  family: Garner
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - 
+  - 
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: TAMU Astronomy Postdoctoral Researcher
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I'm a scientist, Star Wars fan, and amateur photographer raised in Georgia. My research interests include galaxy evolution, star formation, and nebular diagnostics. 
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Texas A&M University
+    url: https://physics.tamu.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:ray.three.garner@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
+  - icon: brands/instagram
+    url: https://www.instagram.com/astronoray
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/ray-garner-bb3143b8/
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/astronoray.bsky.social
+  - icon: brands/youtube
+    url: https://www.youtube.com/channel/UCJmyKp5pHuy_yCg5IJGkvQQ
+  - icon: brands/github
+    url: https://github.com/astronoray
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-9426-7456
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Galaxy evolution
+  - Star formation, near and far
+  - Nebular diagnostics
+  - Spiral structure
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD, Astronomy
+    institution: Case Western Reserve University
+    start: 2018-08-01
+    end: 2023-08-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis: "Investigating the Galactic Evolution of M101 with Deep Narrowband Imaging". <br>
+      Involves investigating the star formation, nebular abundances, and stellar populations of M101.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: BS, Physics
+    institution: Furman University
+    start: 2014-08-01
+    end: 2018-05-05
+    summary: |
+      Graduated Summa Cum Laude.
+
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Postdoctoral Researcher
+    org: Texas A&M University, Physics & Astronomy
+    start: 2023-09-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Lead investigator in the SIGNALS collaboration, a survey of HII regions in 35 nearby galaxies.
+      Led several first-author publications as well as co-authored many more publications. 
+      Co-taught graduate level Stellar Physics class; substitute taught undergraduate astronomy classes.
+    # button:
+    #   text: View portfolio
+    #   url: /
+    #   icon: hero/arrow-down-tray
+  - role: Instructor
+    org: Art of Problem Solving
+    start: 2022-05-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Teach and support online, live, text-based courses for advanced middle- and high-school students.
+      Instruct a broad range of classes spanning physics, mathematics, and programming.
+  - role: Teaching Assistant
+    org: Case Western Reserve University, Astronomy
+    start: 2018-08-24
+    end: 2023-08-01
+    summary: |
+      Supported instruction in undergraduate astronomy courses. Delivered guest and substitute lectures in sophomore-level courses.
+      Graded assignments, offered detailed feedback, and led Python help sessions each semester.
+  - role: Student Researcher
+    org: Indiana University, Astronomy
+    start: 2017-05-01
+    end: 2017-07-31
+    summary: |
+      Selected for a competitive NSF-funded REU program. Conducted research with the late Prof. Liese van Zee on the ionized gas kinematics of nearby low-mass galaxies. 
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
 
 languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - name: French
+    level: 3
+    label: Proficient
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: 2026 President's Meritorious Staff Service Awards
+    awarder: Texas A&M University
+    date: "2026-05-01"
+    summary: Nominated.
+    icon: hero/trophy
+  - title: Postdoc Success Program
+    awarder: Texas A&M University
+    date: "2025-05-01"
+    # summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy
+  - title: Center for the Improvement of Mentored Experiences in Research (CIMER)
+    awarder: Texas A&M University
+    date: "2025-05-01"
+    # summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy
+  - title: Lenore A. Kola Graduate Student Community Service Award
+    awarder: Case Western Reserve University
+    date: "2023-05-01"
+    # summary: Awarded for groundbreaking work on efficient training of large models.
+    icon: hero/trophy
+  - title: Graduate Dean's Instructional Excellence Award
+    awarder: Case Western Reserve University
+    date: "2023-05-01"
+    # summary: Awarded for groundbreaking work on efficient training of large models.
     icon: hero/trophy
