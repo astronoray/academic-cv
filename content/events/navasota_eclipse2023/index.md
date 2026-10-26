@@ -1,71 +1,42 @@
 ---
-title: "An Annular Solar Eclipse in Texas!"
-
-event: 
-event_url: 
-
+title: An Annular Solar Eclipse in Texas!
+event_url: null
 location: Navasota Public Library
 address:
   street: 1411 E. Washington Ave
   city: Navasota
   region: TX
-  postcode: '77868'
+  postcode: "77868"
   country: United States
-
-summary: A kid-friendly presentation about the annular solar eclipse visible to Texans on October 14! 
-abstract: Are you ready for the 2023 annular solar eclipse? No worries if not! Come hear a kid-friendly presentation about what to expect on October 14 and how to view the eclipse safely.  
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-10-09T17:30:00Z"
-date_end: "2023-10-09T18:15:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2023-10-01T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Outreach Talks
-- navasota
-- texas
-- eclipse
-- solar system ambassador
-
-
-# Is this a featured talk? (true/false)
+summary: A kid-friendly presentation about the annular solar eclipse visible to Texans on October 14!
+abstract: Are you ready for the 2023 annular solar eclipse? No worries if not! Come hear a kid-friendly presentation about what to expect on October 14 and how to view the eclipse safely.
+date: 2023-10-01T00:00:00Z
+authors:
+  - me
+tags:
+  - Outreach Talks
+  - navasota
+  - texas
+  - eclipse
+  - solar system ambassador
 featured: true
-
 image:
   caption: "Image Credit: [Jongsun Lee](https://unsplash.com/@sarahleejs)"
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1mFomf-veFWkE9vPouTRyrrIxJgSx_hoW/edit?usp=sharing&ouid=103090395617798852296&rtpof=true&sd=true"
+url_slides: https://docs.google.com/presentation/d/1mFomf-veFWkE9vPouTRyrrIxJgSx_hoW/edit?usp=sharing&ouid=103090395617798852296&rtpof=true&sd=true
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2023-10-09T17:30:00Z
+event_end: 2023-10-09T18:15:00Z
+event_all_day: false
+event_name: null
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

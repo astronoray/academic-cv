@@ -1,72 +1,42 @@
 ---
-title: "The 2024 Solar Eclipse"
-date: "2024-02-28T00:00:00Z"
-
-event: 
-event_url: 
-
+title: The 2024 Solar Eclipse
+date: 2024-02-28T00:00:00Z
+event_url: null
 location: Navasota Public Library
 address:
   street: 1411 E. Washington Ave
   city: Navasota
   region: TX
-  postcode: '77868'
+  postcode: "77868"
   country: United States
-
-summary: A kid-friendly presentation about the total solar eclipse visible to Texans on April 8! 
-abstract: Are you ready for the 2024 total solar eclipse? No worries if not! Come hear a kid-friendly presentation about what to expect on April 8 and how to view the eclipse safely.  
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-event_start: "2024-04-01T17:30:00Z"
-event_end: "2024-04-01T18:15:00Z"
+summary: A kid-friendly presentation about the total solar eclipse visible to Texans on April 8!
+abstract: Are you ready for the 2024 total solar eclipse? No worries if not! Come hear a kid-friendly presentation about what to expect on April 8 and how to view the eclipse safely.
+event_start: 2024-04-01T17:30:00Z
+event_end: 2024-04-01T18:15:00Z
 event_all_day: false
-
-# Schedule page publish date (NOT talk date).
-
-
-authors: 
-- me
-tags: 
-- Outreach Talks
-- navasota
-- texas
-- eclipse
-- solar system ambassador
-
-
-# Is this a featured talk? (true/false)
+authors:
+  - me
+tags:
+  - Outreach Talks
+  - navasota
+  - texas
+  - eclipse
+  - solar system ambassador
 featured: true
-
 image:
   caption: "Image Credit: [Justin Dickey](https://unsplash.com/@justinmdickey)"
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_name: null
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

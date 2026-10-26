@@ -1,74 +1,45 @@
 ---
 title: Dangerous Asteroids and What We Can Do About Them
-date: "2021-10-16T00:00:00Z"
-
-event: Cultural Life Program
-event_url: 
-
+date: 2021-10-16T00:00:00Z
+event_url: null
 location: McEachern Hall @ Furman University
 address:
-  street: 3300 Poinsett Hwy 
+  street: 3300 Poinsett Hwy
   city: Greenville
   region: SC
-  postcode: '29613'
+  postcode: "29613"
   country: United States
-
-summary: A public talk given by Dr. Eva Lilly from PanSTARRS about the search for near-Earth asteroids and how to protect humanity from them.  
-abstract: 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-event_start: "2018-03-01T19:30:00Z"
-event_end: "2018-03-01T21:00:00Z"
+summary: A public talk given by Dr. Eva Lilly from PanSTARRS about the search for near-Earth asteroids and how to protect humanity from them.
+abstract: null
+event_start: 2018-03-01T19:30:00Z
+event_end: 2018-03-01T21:00:00Z
 event_all_day: false
-
-# Schedule page publish date (NOT talk date).
-
-
-authors: 
-- me
-- Eva Lilly
-tags: 
-- Outreach Talks
-- furman
-- greenville
-- south carolina
-- solar system
-- solar system ambassador
-- guest speaker
-
-# Is this a featured talk? (true/false)
+authors:
+  - me
+  - Eva Lilly
+tags:
+  - Outreach Talks
+  - furman
+  - greenville
+  - south carolina
+  - solar system
+  - solar system ambassador
+  - guest speaker
 featured: false
-
 image:
-  caption: 
+  caption: null
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_name: Cultural Life Program
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

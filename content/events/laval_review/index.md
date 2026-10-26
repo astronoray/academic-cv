@@ -1,80 +1,46 @@
 ---
-title: "The SIGNALS from HII Regions"
-
-event: "SIGNALS and Friends Workshop"
-event_url: 
-
+title: The SIGNALS from HII Regions
+event_url: null
 location: Université Laval
 address:
   street: 2375 De la Terrasse St
   city: Québec City
   region: Quebec
-  postcode: 'G1V 0A6'
+  postcode: G1V 0A6
   country: Canada
-
-summary: An invited review talk at the SIGNALS workshop about HII regions, pockets of gas ionized by hot stars. In this talk, I give an overview of the work that has been done about HII regions as well as many ideas for future work within SIGNALS.    
-abstract: "In this invited review, I present an overview of H&nbsp;<span style='font-size: 0.8em;'>II</span> regions and their central role in our understanding of galactic ecosystems. I begin with a brief introduction to the fundamental physics of ionized nebulae, outlining the processes that govern emission line formation and structure. From there, I explore what we can learn observationally from H&nbsp;<span style='font-size: 0.8em;'>II</span> regions, including how their emission lines allow us to diagnose ionization conditions and excitation mechanisms via diagnostic tools like the BPT diagram. I discuss the distribution of H&nbsp;<span style='font-size: 0.8em;'>II</span> regions across this parameter space and the physical drivers behind their location on such diagrams. The talk then focuses on chemical abundance measurements and how these measurements trace the evolutionary history and current state of teh host galaxy. I conclude by highlighting several promising directions for future work within the SIGNALS collaboration, leveraging the unprecedented size and resolution of the dataset to address outstanding questions in star formation, feedback, and chemical enrichment. " 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-05-20T09:00:00Z"
-date_end: "2025-05-23T17:00:00Z"
-all_day: true
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2025-05-07T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Invited Talks & Colloquia
-- laval
-- quebec
-- canada
-- SIGNALS
-- iFTS
-- abundances
-- HII regions
-- conference
-
-
-# Is this a featured talk? (true/false)
+summary: An invited review talk at the SIGNALS workshop about HII regions, pockets of gas ionized by hot stars. In this talk, I give an overview of the work that has been done about HII regions as well as many ideas for future work within SIGNALS.
+abstract: "In this invited review, I present an overview of H&nbsp;<span style='font-size: 0.8em;'>II</span> regions and their central role in our understanding of galactic ecosystems. I begin with a brief introduction to the fundamental physics of ionized nebulae, outlining the processes that govern emission line formation and structure. From there, I explore what we can learn observationally from H&nbsp;<span style='font-size: 0.8em;'>II</span> regions, including how their emission lines allow us to diagnose ionization conditions and excitation mechanisms via diagnostic tools like the BPT diagram. I discuss the distribution of H&nbsp;<span style='font-size: 0.8em;'>II</span> regions across this parameter space and the physical drivers behind their location on such diagrams. The talk then focuses on chemical abundance measurements and how these measurements trace the evolutionary history and current state of teh host galaxy. I conclude by highlighting several promising directions for future work within the SIGNALS collaboration, leveraging the unprecedented size and resolution of the dataset to address outstanding questions in star formation, feedback, and chemical enrichment. "
+date: 2025-05-07T00:00:00Z
+authors:
+  - me
+tags:
+  - Invited Talks & Colloquia
+  - laval
+  - quebec
+  - canada
+  - SIGNALS
+  - iFTS
+  - abundances
+  - HII regions
+  - conference
 featured: true
-
 image:
   caption: ""
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
-
-
-
-
-
+  - []
+event_start: 2025-05-20T09:00:00Z
+event_end: 2025-05-23T17:00:00Z
+event_all_day: true
+event_name: SIGNALS and Friends Workshop
 ---
+
 
 
 <!-- {{% callout note %}}

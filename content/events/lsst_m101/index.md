@@ -1,72 +1,44 @@
 ---
 title: The M101 Interaction & Narrowband Photometry
-
-event: LSST LSB Working Group Meeting
-event_url: 
-
+event_url: null
 location: Virtual
 address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
-
-summary: Presentation of the completed work of my graduate thesis at a meeting of the LSST LSB Working Group.      
-abstract: 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-06-22T10:00:00Z"
-date_end: "2022-06-22T11:30:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Invited Talks & Colloquia
-- thesis
-- M101
-- narrowband
-- photometry
-- HII regions
-- virtual
-
-# Is this a featured talk? (true/false)
+  street: null
+  city: null
+  region: null
+  postcode: null
+  country: null
+summary: Presentation of the completed work of my graduate thesis at a meeting of the LSST LSB Working Group.
+abstract: null
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+tags:
+  - Invited Talks & Colloquia
+  - thesis
+  - M101
+  - narrowband
+  - photometry
+  - HII regions
+  - virtual
 featured: false
-
 image:
-  caption: 
+  caption: null
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2022-06-22T10:00:00Z
+event_end: 2022-06-22T11:30:00Z
+event_all_day: false
+event_name: LSST LSB Working Group Meeting
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

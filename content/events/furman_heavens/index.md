@@ -1,71 +1,43 @@
 ---
 title: Introduction to the Heavens
-
-event: Furman University Astronomy Club
-event_url: 
-
+event_url: null
 location: Timmons Planetarium @ Furman University
 address:
-  street: 3300 Poinsett Hwy 
+  street: 3300 Poinsett Hwy
   city: Greenville
   region: SC
-  postcode: '29613'
+  postcode: "29613"
   country: United States
-
-summary: A planetarium show walking new members of the Astronomy Club through the night sky. 
-abstract: 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-09-05T20:00:00Z"
-date_end: "2017-09-05T21:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Outreach Talks
-- furman
-- night sky
-- greenville
-- south carolina
-- solar system ambassador
-
-# Is this a featured talk? (true/false)
+summary: A planetarium show walking new members of the Astronomy Club through the night sky.
+abstract: null
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+tags:
+  - Outreach Talks
+  - furman
+  - night sky
+  - greenville
+  - south carolina
+  - solar system ambassador
 featured: false
-
 image:
   caption: "Image Credit: [Jeremy Thomas](https://unsplash.com/@jeremythomasphoto)"
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2017-09-05T20:00:00Z
+event_end: 2017-09-05T21:00:00Z
+event_all_day: false
+event_name: Furman University Astronomy Club
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

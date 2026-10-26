@@ -1,72 +1,44 @@
 ---
 title: Messier and His Objects
-
-event: Furman University Astronomy Club
-event_url: 
-
+event_url: null
 location: Timmons Planetarium @ Furman University
 address:
-  street: 3300 Poinsett Hwy 
+  street: 3300 Poinsett Hwy
   city: Greenville
   region: SC
-  postcode: '29613'
+  postcode: "29613"
   country: United States
-
-summary: In lieu of a true Messier Marathon, a presentation was given about Messier and the objects in his self-named catalog.  
-abstract: 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-03-13T20:00:00Z"
-date_end: "2018-03-13T21:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Outreach Talks
-- furman
-- night sky
-- greenville
-- south carolina
-- galaxy
-- nebula
-
-# Is this a featured talk? (true/false)
+summary: In lieu of a true Messier Marathon, a presentation was given about Messier and the objects in his self-named catalog.
+abstract: null
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+tags:
+  - Outreach Talks
+  - furman
+  - night sky
+  - greenville
+  - south carolina
+  - galaxy
+  - nebula
 featured: false
-
 image:
   caption: "The Dumbbell Nebula, M27. Image Credit: David Moffett"
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2018-03-13T20:00:00Z
+event_end: 2018-03-13T21:00:00Z
+event_all_day: false
+event_name: Furman University Astronomy Club
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

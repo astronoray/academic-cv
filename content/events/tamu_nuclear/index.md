@@ -1,71 +1,42 @@
 ---
-title: "The Physical Properties of HII Regions in SIGNALS"
-
-event: "Joint Nuclear and Astrophysics Seminar"
-event_url: 
-
+title: The Physical Properties of HII Regions in SIGNALS
+event_url: null
 location: Texas A&M University Cyclotron Institute
 address:
   street: 3366 TAMU
   city: College Station
   region: TX
-  postcode: '77843'
+  postcode: "77843"
   country: United States
-
-summary: A general overview of my research into the correlation between ionization parameter and oxygen abundance for HII regions in the local universe using data from the SIGNALS project. This talk is meant for a general scientific audience composed of both astronomers and nuclear physicists. 
+summary: A general overview of my research into the correlation between ionization parameter and oxygen abundance for HII regions in the local universe using data from the SIGNALS project. This talk is meant for a general scientific audience composed of both astronomers and nuclear physicists.
 abstract: "Some of the most beautiful objects in the sky are H&nbsp;<span style='font-size: 0.8em;'>II</span> regions, so-named because they are gas clouds that contain mostly ionized hydrogen. These gas clouds are being ionized by newly formed stars, and thus have great importance to the study of galaxy evolution, chemical enrichment, and star formation. Two key properties govern their emission line spectra: ionization parameter and chemical abundance. An interesting question to ask is are these properties correlated? The answer is not straightforward and differs greatly between samples! I will show ongoing work into understanding this correlation using resolved H&nbsp;<span style='font-size: 0.8em;'>II</span> regions in the nearby galaxy NGC 628 detected with the SIGNALS project."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-02-23T14:00:00Z"
-date_end: "2024-02-23T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2024-02-23T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Conference Presentations
-- college station
-- texas
-- HII regions
-- SIGNALS
-
-
-# Is this a featured talk? (true/false)
+date: 2024-02-23T00:00:00Z
+authors:
+  - me
+tags:
+  - Conference Presentations
+  - college station
+  - texas
+  - HII regions
+  - SIGNALS
 featured: true
-
 image:
   caption: "Image Credit: [SIGNALS](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.5530R/abstract)"
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
-url_pdf: "https://cyclotron.tamu.edu/wp-content/uploads/Seminar022324.jpg"
+url_pdf: https://cyclotron.tamu.edu/wp-content/uploads/Seminar022324.jpg
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2024-02-23T14:00:00Z
+event_end: 2024-02-23T15:00:00Z
+event_all_day: false
+event_name: Joint Nuclear and Astrophysics Seminar
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
