@@ -1,75 +1,47 @@
 ---
 title: Investigating the Oxygen Abundance of the M101 Group with Deep Narrowband Imaging
-
-event: Colloquium Talk @ Oberlin College
 event_url: https://www.oberlin.edu/events/physics_astronomy_lecture_series_ray_garner
-
 location: Oberlin College & Conservatory
 address:
   street: 38 East College St
   city: Oberlin
   region: OH
-  postcode: '44074'
+  postcode: "44074"
   country: United States
-
 summary: Presentation of my second thesis project as a colloquium given to the Department of Physics & Astronomy at Oberlin College & Conservatory.
 abstract: "How do galaxies evolve? This is at first a seemingly simple and fundamental question, yet it is a question laced with intricacies. To help unravel the mystery of galaxy evolution, I present deep, narrowband imaging of the nearby spiral galaxy M101 and its satellites. Although the M101 Group is a relatively poor group with only one major member, it is a dynamic group! M101 itself is thought to have interacted with its most massive satellite ~300 Myr ago. Using narrowband images targeting key emission lines (H&alpha;, H&beta;, [O&nbsp;<span style='font-size: 0.8em;'>III</span>]&lambda;&lambda;4959,5007, and [O&nbsp;<span style='font-size: 0.8em;'>II</span>]&lambda;3727), I investigate how this interaction might have influenced the oxygen abundances of the M101 Group. Importantly, this survey represents the highest number of oxygen abundances estimated for M101 totaling ~650 H&nbsp;<span style='font-size: 0.8em;'>II</span> regions in M101 alone! Investigating the shape of the radial abundance profile, I find tentative evidence for a flattened abundance gradient beyond *R*&sim;15&nbsp;kpc, likely caused by a combination of the interaction and M101’s own internal dynamics."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-11-09T16:35:00Z"
-date_end: "2022-11-09T18:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Invited Talks & Colloquia
-- M101
-- abundances
-- HII regions
-- galaxy interactions
-- narrowband
-- photometry
-- oberlin
-- thesis
-- ohio
-
-# Is this a featured talk? (true/false)
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+tags:
+  - Invited Talks & Colloquia
+  - M101
+  - abundances
+  - HII regions
+  - galaxy interactions
+  - narrowband
+  - photometry
+  - oberlin
+  - thesis
+  - ohio
 featured: true
-
 image:
-  caption: 
+  caption: null
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2022-11-09T16:35:00Z
+event_end: 2022-11-09T18:00:00Z
+event_all_day: false
+event_name: Colloquium Talk @ Oberlin College
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

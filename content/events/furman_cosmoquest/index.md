@@ -1,71 +1,43 @@
 ---
-title: 'CosmoQuest: How to Be A Part of NASA Research'
-
-event: Furman University Cultural Learning Program
-event_url: 
-
+title: "CosmoQuest: How to Be A Part of NASA Research"
+event_url: null
 location: Patrick Lecture Hall @ Furman University
 address:
-  street: 3300 Poinsett Hwy 
+  street: 3300 Poinsett Hwy
   city: Greenville
   region: SC
-  postcode: '29613'
+  postcode: "29613"
   country: United States
-
-summary: A public talk given by Dr. Pamela Gay about how to be a part of citizen science research. 
-abstract: 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-02-09T20:00:00Z"
-date_end: "2017-02-09T21:15:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-- Pamela Gay
-tags: 
-- Outreach Talks
-- furman
-- greenville
-- south carolina
-- guest speaker
-
-# Is this a featured talk? (true/false)
+summary: A public talk given by Dr. Pamela Gay about how to be a part of citizen science research.
+abstract: null
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+  - Pamela Gay
+tags:
+  - Outreach Talks
+  - furman
+  - greenville
+  - south carolina
+  - guest speaker
 featured: false
-
 image:
-  caption: 
+  caption: null
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2017-02-09T20:00:00Z
+event_end: 2017-02-09T21:15:00Z
+event_all_day: false
+event_name: Furman University Cultural Learning Program
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

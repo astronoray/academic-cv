@@ -1,74 +1,45 @@
 ---
 title: Stargazing at the Pisgah Astronomical Research Institute
-
-event: 
-event_url: 
-
+event_url: null
 location: Pisgah Astronomical Research Institute
 address:
-  street: 1 Pari Dr 
+  street: 1 Pari Dr
   city: Rosman
   region: NC
-  postcode: '28772'
+  postcode: "28772"
   country: United States
-
 summary: A Furman University Astronomy Club trip to PARI.
-abstract: We toured the grounds, learning about radio astronomy, the history of PARI, and stayed the night. At night, our advisor, Dr. David Moffett assisted us in taking astrophotography with some of the telescopes on site. 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-04-08T14:00:00Z"
-date_end: "2017-04-09T08:30:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Outreach Talks
-- furman
-- pari
-- night sky
-- images
-- north carolina
-- rosman
-- observations
-
-# Is this a featured talk? (true/false)
+abstract: We toured the grounds, learning about radio astronomy, the history of PARI, and stayed the night. At night, our advisor, Dr. David Moffett assisted us in taking astrophotography with some of the telescopes on site.
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+tags:
+  - Outreach Talks
+  - furman
+  - pari
+  - night sky
+  - images
+  - north carolina
+  - rosman
+  - observations
 featured: false
-
 image:
-  caption: "The 12.2 meter radio telescope at PARI"
+  caption: The 12.2 meter radio telescope at PARI
   focal_point: Right
-
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2017-04-08T14:00:00Z
+event_end: 2017-04-09T08:30:00Z
+event_all_day: false
+event_name: null
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

@@ -1,69 +1,40 @@
 ---
 title: REU @ SURF
-
-event: SoCon Undergraduate Research Forum
-event_url: 
-
+event_url: null
 location: Wofford College
 address:
   street: 429 North Church St
   city: Spartanburg
   region: SC
-  postcode: '29303'
+  postcode: "29303"
   country: United States
-
-summary: Presentation of my REU project, _Ionized Gas Kinematics of Nearby Low-Mass Galaxies_, at the 3rd annual Southern Conference Undergraduate Research Forum.     
-abstract: 
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-10-30T00:00:00Z"
-#date_end: "2017-10-30T00:00:00Z"
-all_day: true
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-10-16T00:00:00Z"
-
-authors: 
-- me
-tags: 
-- Conference Presentations
-- REU
-- spartanburg
-- south carolina
-
-# Is this a featured talk? (true/false)
+summary: Presentation of my REU project, _Ionized Gas Kinematics of Nearby Low-Mass Galaxies_, at the 3rd annual Southern Conference Undergraduate Research Forum.
+abstract: null
+date: 2021-10-16T00:00:00Z
+authors:
+  - me
+tags:
+  - Conference Presentations
+  - REU
+  - spartanburg
+  - south carolina
 featured: false
-
 image:
-  caption: 
+  caption: null
   focal_point: Right
-
-links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links: null
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects:
-- []
+  - []
+event_start: 2017-10-30T00:00:00Z
+event_all_day: true
+event_name: SoCon Undergraduate Research Forum
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
